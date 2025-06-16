@@ -109,6 +109,13 @@ Proyek ini adalah aplikasi e-commerce berbasis **Laravel 11** yang mendukung dua
 
 ---
 
+### 📽️ Demo Project
+
+Lihat demo proyek ini di Google Drive:
+![Demo Laravel E-Commerce App](https://drive.google.com/drive/folders/1vmHfVoRomH4Thd-aV3BOoakjROE7TEu_?usp=sharing)
+
+---
+
 ## ⚙️ Instalasi
 
 1. Clone repo ini:
