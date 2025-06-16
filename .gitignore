@@ -1,0 +1,49 @@
+# File dan direktori yang dihasilkan oleh Composer
+/vendor
+# composer.lock
+
+# File konfigurasi sensitif
+.env
+.env.backup
+.env.* (kecuali .env.example)
+
+# File dan direktori yang dihasilkan oleh Node.js
+/node_modules
+npm-debug.log
+yarn-error.log
+# package-lock.json 
+
+# File cache dan log
+/storage/*.key
+/storage/logs/*.log
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/app/public/*
+/storage/clockwork/*
+/homestead.yaml
+/Homestead.json
+
+# File sementara dan sistem operasi
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# File build dan deployment
+/public/hot
+/public/storage
+/public/build
+/dist
+coverage/
+
+# File testing
+.phpunit.result.cache
+tests/_output/*
+tests/_support/_generated/*
+
+# File lain yang mungkin
+/bootstrap/cache/*
+/laravel.log
