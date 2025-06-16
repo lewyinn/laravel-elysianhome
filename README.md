@@ -113,7 +113,7 @@ Proyek ini adalah aplikasi e-commerce berbasis **Laravel 11** yang mendukung dua
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/nama-proyek.git
+   git clone https://github.com/lewyinn/laravel-elysianhome.git
    cd nama-proyek
    ```
 
